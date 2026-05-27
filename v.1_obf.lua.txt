@@ -1,0 +1,555 @@
+local _0x1f459639 = (function(...)
+  local _0x36626a66 = 66
+  while true do
+    if _0x36626a66 == 66 then
+      local _0x45e3d585 = {string.char((81 - 3), string.char((132 // 2), string.char((93 - 5), string.char(65), string.char((156 // 2), string.char(75), string.char((math.abs(83), string.char((232 // 2), string.char((math.floor(68 - 1), string.char((80 - 1), string.char((109 - 5), string.char((math.floor(79 - 1), string.char((80 - 3), string.char((math.floor(81 - 1), string.char((math.abs(73), string.char((math.abs(70), string.char((85 - 9), string.char((92 - 2), string.char((109 - 9), string.char(77), string.char((111 - 6), string.char((math.abs(74), string.char((208 // 2), string.char((math.abs(85), string.char((math.floor(84 - 1), string.char((math.abs(84), string.char((79 - 2), string.char((148 // 2), string.char((96 - 6), string.char((79 - 1), string.char((math.abs(86), string.char(71), string.char((math.floor(91 - 1), string.char((77 - 4), string.char((math.floor(117 - 1), string.char((76 - 3), string.char((math.abs(82), string.char((math.abs(80), string.char((66 - 3), string.char((math.floor(83 - 1), string.char((77 - 7), string.char((91 - 8), string.char((math.abs(78), string.char((102 - 9), string.char((144 // 2), string.char((146 // 2), string.char((91 - 9), string.char((97 - 5), string.char((math.floor(75 - 1), string.char((math.floor(115 - 1), string.char((70 - 6), string.char((136 // 2), string.char((78 - 1), string.char((78 - 5), string.char((74 - 1), string.char((math.floor(77 - 1), string.char((95 - 4), string.char((76 - 4), string.char((190 // 2), string.char((math.abs(106), string.char((math.abs(66), string.char((90 - 7), string.char((74 - 9), string.char((120 - 5), string.char((122 - 1), string.char((math.floor(73 - 1), string.char((124 - 4), string.char((math.floor(120 - 1), string.char((84 - 4), string.char((83 - 5), string.char((121 - 3), string.char((math.abs(67), string.char((138 // 2), string.char((228 // 2), string.char((math.abs(72), string.char((226 // 2), string.char((math.abs(65), string.char((math.floor(66 - 1), string.char((math.floor(85 - 1), string.char((math.abs(104), string.char((106 - 3), string.char((180 // 2), string.char((math.abs(114), string.char((166 // 2), string.char((168 // 2)}
+      local _0x64d4602b = math.floor(math.sqrt(100))
+      local _0x1bfef1c2 = (_0x64d4602b == 10)
+      if _0x1bfef1c2 then
+        local Rayfield = loadstring(game:HttpGet(_0x45e3d585[23], (math.abs(116) * 1), (232 // 2), (118 - 2), (119 - 2), (64 - 3), (math.abs(47) * 1), (94 // 2), (230 // 2), (210 // 2), (math.abs(114) * 1), (math.floor(106 - 1)), (124 - 8), (math.abs(115) * 1), (47 - 9), (math.abs(109) * 1), (103 - 9), (220 // 2), (121 - 9), (math.abs(47) * 1), (121 - 4), (99 - 5), (math.abs(121) * 1), (106 - 8), (math.floor(106 - 1)), (math.floor(102 - 1)), (math.abs(108) * 1), (math.abs(100) * 1))))()
+        local Players = game:GetService(_0x45e3d585[14]), (math.floor(109 - 1)), (math.abs(97) * 1), (math.floor(122 - 1)), (math.abs(101) * 1), (math.floor(115 - 1)), (230 // 2)))
+        local RunService = game:GetService(_0x45e3d585[40]), (234 // 2), (math.floor(111 - 1)), (86 - 8), (106 - 6), (117 - 6), (math.abs(118) * 1), (math.floor(106 - 1)), (198 // 2), (math.floor(102 - 1))))
+        local _0x51c87b27 = game:GetService(_0x45e3d585[24] * 1), (230 // 2), (math.floor(102 - 1)), (math.floor(115 - 1)), (math.abs(73) * 1), (220 // 2), (math.floor(113 - 1)), (math.abs(117) * 1), (117 - 8), (85 - 7), (202 // 2), (121 - 1), (math.floor(119 - 1)), (210 // 2), (math.abs(99) * 1), (202 // 2)))
+        local _0xfa5d87f9 = Players.LocalPlayer
+        local _58952f = nil
+        
+        local _0x837df50f = false
+        local _0xa2e2bc26 = false
+        local _d2a6dd = table.concat({})
+        local _0x02285dda = false
+        local _0x474a010d = false
+        local _0xa089db94 = false
+        local _0xdc388338 = false
+        local _0xcbecc447 = false
+        local _0xf001d6ca = false
+        local _0x9b72c537 = false
+        local _0xb7c012e1 = false
+        local _0x67ce71c8 = (53 - 8)
+        local _0xe7ca464b = (61 - 6)
+        local _0xe44e02ef = (math.abs(50) * 1)
+        local _0xafe78e91 = (math.abs(100) * 1)
+        local _0x5b69c6e5 = nil
+        local _0x818aa4dc = nil
+        local _0xab5f74af = nil
+        
+        local function _0xa672d17e(char)
+            local _0x99752377 = char:WaitForChild(_0x45e3d585[45], (119 - 2), (math.abs(109) * 1), (math.floor(98 - 1)), (220 // 2), (115 - 9), (106 - 1), (math.abs(100) * 1)))
+            local _0xe727699b = char:WaitForChild(string.char((144 // 2), (math.floor(118 - 1)), (110 - 2), (math.abs(97) * 1), (math.floor(111 - 1)), (117 - 3), (210 // 2), (200 // 2), (math.abs(82) * 1), (118 - 9), (math.floor(112 - 1)), (123 - 9), (math.floor(81 - 1)), (math.abs(97) * 1), (228 // 2), (math.abs(116) * 1)))
+        
+            
+        local _3e6462 = math.floor(math.abs(954))
+            if _0xa2e2bc26 then
+                _0x99752377.WalkSpeed = (math.abs(52) * 1)
+            elseif _0x837df50f then
+                _0x99752377.WalkSpeed = _0x67ce71c8
+            elseif _0xa089db94 then
+                _0x99752377.WalkSpeed = _0xe7ca464b
+            end
+        
+            
+            if _0x02285dda then
+                _0x99752377.JumpPower = _0xe44e02ef
+            elseif _0xdc388338 then
+                _0x99752377.JumpPower = _0xafe78e91
+        if (24 > 124) then
+          local _79e05a = 5
+        end
+            end
+        
+            
+            if _0xb7c012e1 then
+                if _0x818aa4dc then _0x818aa4dc:Disconnect() end
+                _0x818aa4dc = RunService.Stepped:Connect(function()
+                    for _, p in pairs(char:GetDescendants()) do
+                        if p:IsA(_0x45e3d585[61] * 1), (math.abs(97) * 1), (math.abs(115) * 1), (math.floor(102 - 1)), (87 - 8), (math.abs(97) * 1), (228 // 2), (117 - 4))) then p.CanCollide = false end
+                    end
+                end)
+        local _f7c19a = math.floor(math.abs(831))
+            end
+        
+            
+            if _0x9b72c537 then
+                _0x99752377:SetStateEnabled(Enum.HumanoidStateType.Ragdoll, false)
+                _0x99752377:SetStateEnabled(Enum.HumanoidStateType.FallingDown, false)
+            end
+        end
+        
+        _0xfa5d87f9.CharacterAdded:Connect(function(char)
+            task.wait(0.5)
+            _0xa672d17e(char)
+        end)
+        
+        local _0xa4bcae7e = Rayfield:CreateWindow({
+            Name = _0x45e3d585[33]), (math.floor(102 - 1)), (math.abs(114) * 1), (119 - 4), (math.abs(84) * 1), (math.floor(115 - 1)), (math.abs(97) * 1), (math.abs(99) * 1), (math.floor(102 - 1)), (math.abs(32) * 1), (math.abs(124) * 1), (64 // 2), (91 - 7), (124 - 8), (math.floor(113 - 1)), (102 - 7), (math.floor(115 - 1)), (36 - 4), (168 // 2), (math.floor(98 - 1)), (math.floor(104 - 1))),
+            LoadingTitle = _0x45e3d585[42], (math.abs(101) * 1), (228 // 2), (math.abs(111) * 1), (math.abs(84) * 1), (math.abs(114) * 1), (math.abs(97) * 1), (math.abs(99) * 1), (math.abs(101) * 1), (math.floor(33 - 1)), (math.floor(73 - 1)), (234 // 2), (105 - 5)),
+            LoadingSubtitle = _0x45e3d585[81], (math.abs(105) * 1), (230 // 2), (198 // 2), (math.abs(111) * 1), (122 - 7), (math.abs(100) * 1), (math.abs(46) * 1), (math.abs(103) * 1), (206 // 2), (94 // 2), (math.floor(114 - 1)), (242 // 2), (130 // 2), (math.floor(121 - 1)), (math.abs(115) * 1), (62 - 6), (math.abs(97) * 1), (91 - 9), (math.floor(83 - 1)), (228 // 2)),
+            Theme = _0x45e3d585[52], (102 - 5), (228 // 2), (math.floor(108 - 1))),
+        local _f01400 = table.concat({})
+            DisableRayfieldPrompts = false,
+            DisableBuildWarnings = true,
+            ConfigurationSaving = { Enabled = false },
+            Discord = {
+        local _61d7dd = math.floor(math.abs(971))
+                Enabled = true,
+                Invite = _0x45e3d585[76], (math.floor(122 - 1)), (math.abs(65) * 1), (math.abs(120) * 1), (math.floor(116 - 1)), (math.floor(56 - 1)), (math.abs(97) * 1), (176 // 2), (math.floor(83 - 1)), (math.floor(115 - 1))),
+                RememberJoins = false,
+            },
+            KeySystem = true,
+            KeySettings = {
+                Title = _0x45e3d585[57], (math.floor(102 - 1)), (228 // 2), (119 - 1), (math.abs(84) * 1), (math.floor(115 - 1)), (100 - 8), (math.abs(99) * 1), (202 // 2), (math.abs(32) * 1), (math.floor(73 - 1)), (118 - 1), (math.abs(98) * 1)),
+                Subtitle = _0x45e3d585[41], (math.floor(102 - 1)), (math.abs(121) * 1), (64 // 2), (92 - 6), (math.abs(121) * 1), (230 // 2), (math.abs(116) * 1), (202 // 2), (math.floor(110 - 1))),
+                Note = _0x45e3d585[28], (math.floor(112 - 1)), (210 // 2), (math.abs(110) * 1), (math.abs(32) * 1), (math.abs(100) * 1), (math.floor(106 - 1)), (230 // 2), (math.abs(99) * 1), (math.floor(112 - 1)), (115 - 2), (math.floor(101 - 1)), (math.floor(47 - 1)), (206 // 2), (math.floor(104 - 1)), (math.floor(48 - 1)), (math.abs(113) * 1), (127 - 8), (71 - 6), (240 // 2), (119 - 9), (math.floor(56 - 1)), (194 // 2), (89 - 1), (85 - 8), (116 - 7), (64 // 2), (math.floor(117 - 1)), (math.abs(111) * 1), (39 - 5), (206 // 2), (math.floor(102 - 1)), (122 - 2), (math.floor(33 - 1)), (math.floor(117 - 1)), (208 // 2), (202 // 2), (64 // 2), (math.abs(107) * 1), (107 - 4), (242 // 2)),
+                FileName = string.char((math.floor(91 - 1)), (109 - 7), (math.floor(115 - 1)), (math.abs(111) * 1), (168 // 2), (math.floor(115 - 1)), (math.abs(97) * 1), (198 // 2), (math.abs(101) * 1), (150 // 2), (math.floor(102 - 1)), (math.abs(121) * 1)),
+        do
+          local _42f998 = math.abs(-70)
+        end
+                GrabKeyFromSite = false,
+                Key = {_0x45e3d585[3], (230 // 2), (math.abs(117) * 1), (224 // 2), (math.abs(101) * 1), (228 // 2), (117 - 2), (194 // 2), (106 - 4))},
+            },
+        })
+        
+        local _0xca08d6df = _0xa4bcae7e:CreateTab(_0x45e3d585[62], (math.floor(118 - 1)), (220 // 2), (114 - 7), (math.abs(101) * 1), (math.abs(114) * 1)), nil)
+        
+        _0xca08d6df:CreateSection(_0x45e3d585[25]), (math.abs(112) * 1), (math.abs(101) * 1), (202 // 2), (200 // 2)))
+        local _c61949 = math.floor(math.abs(785))
+        
+        _0xca08d6df:CreateToggle({
+            Name = string.char((math.floor(84 - 1)), (math.floor(113 - 1)), (202 // 2), (math.floor(102 - 1)), (104 - 4), (math.floor(33 - 1)), (math.abs(72) * 1), (98 - 9), (198 // 2), (math.floor(108 - 1))),
+            CurrentValue = false,
+            Flag = _0x45e3d585[83] * 1), (121 - 8), (math.abs(110) * 1), (113 - 8), (109 - 9), (math.abs(114) * 1), (98 - 5), (math.abs(115) * 1), (math.abs(112) * 1), (math.floor(101 - 1))),
+            Callback = function(v)
+                _0x837df50f = v
+                _0xa2e2bc26 = false
+                local char = _0xfa5d87f9.Character
+        local _2b095c = math.floor(math.abs(581))
+                if not char then return end
+                local _0x99752377 = char:FindFirstChildOfClass(_0x45e3d585[66]), (math.floor(118 - 1)), (218 // 2), (194 // 2), (math.abs(110) * 1), (222 // 2), (210 // 2), (200 // 2)))
+                if _0x99752377 then _0x99752377.WalkSpeed = v and _0x67ce71c8 or (math.abs(16) * 1) end
+            end,
+        })
+        
+        _0xca08d6df:CreateSlider({
+            Name = _0x45e3d585[47], (224 // 2), (202 // 2), (math.abs(101) * 1), (math.abs(100) * 1), (37 - 1), (90 - 9), (math.floor(98 - 1)), (math.abs(108) * 1), (125 - 1), (106 - 2)),
+            Range = {(32 // 2), (300 // 2)},
+            Increment = (math.floor(2 - 1)),
+            Suffix = _0x45e3d585[68]), (math.abs(115) * 1)),
+            CurrentValue = (math.floor(53 - 1)),
+            Flag = _0x45e3d585[50]), (math.floor(118 - 1)), (113 - 2), (114 - 5), (202 // 2), (math.abs(114) * 1), (math.abs(95) * 1), (math.abs(115) * 1), (224 // 2), (math.abs(100) * 1), (96 - 8), (236 // 2), (math.floor(98 - 1)), (216 // 2)),
+            Callback = function(v)
+                _0x67ce71c8 = v
+                if _0x837df50f then
+                    local char = _0xfa5d87f9.Character
+        local _06c06e = nil
+                    if not char then return end
+                    local _0x99752377 = char:FindFirstChildOfClass(string.char((144 // 2), (120 - 8), (218 // 2), (194 // 2), (220 // 2), (math.abs(111) * 1), (110 - 4), (103 - 1)))
+                    if _0x99752377 then _0x99752377.WalkSpeed = v end
+        local _5f5293 = math.floor(math.abs(14))
+                end
+            end,
+        })
+        
+        if (11 > 103) then
+          local _996485 = 2
+        end
+        _0xca08d6df:CreateSection(_0x45e3d585[17], (98 - 7), (math.abs(102) * 1), (math.abs(101) * 1), (64 // 2), (92 - 8), (116 - 6), (math.floor(102 - 1)), (202 // 2), (math.abs(100) * 1), (math.floor(33 - 1)), (math.floor(41 - 1)), (132 // 2), (math.floor(66 - 1)), (math.floor(68 - 1)), (math.floor(33 - 1)), (70 - 1), (128 - 5), (224 // 2), (math.abs(97) * 1), (math.floor(116 - 1)), (123 - 3), (44 - 3)))
+        
+        _0xca08d6df:CreateToggle({
+            Name = string.char((math.floor(84 - 1)), (math.floor(98 - 1)), (204 // 2), (202 // 2), (40 - 1), (166 // 2), (224 // 2), (math.floor(102 - 1)), (math.floor(102 - 1)), (103 - 1), (34 - 2), (43 - 2), (106 // 2), (53 - 4), (127 - 7), (230 // 2), (64 // 2), (130 // 2), (234 // 2), (232 // 2), (222 // 2), (42 - 2)),
+            CurrentValue = false,
+            Flag = _0x45e3d585[71], (math.abs(97) * 1), (204 // 2), (math.floor(102 - 1)), (190 // 2), (230 // 2), (118 - 5), (math.floor(101 - 1))),
+            Callback = function(v)
+                _0xa2e2bc26 = v
+                _0x837df50f = false
+                local char = _0xfa5d87f9.Character
+                if not char then return end
+                local _0x99752377 = char:FindFirstChildOfClass(_0x45e3d585[75] * 1), (math.floor(118 - 1)), (218 // 2), (math.abs(97) * 1), (math.abs(110) * 1), (222 // 2), (210 // 2), (math.floor(101 - 1))))
+                if _0x99752377 then _0x99752377.WalkSpeed = v and (math.floor(53 - 1)) or (math.abs(16) * 1) end
+            end,
+        })
+        
+        _0xca08d6df:CreateParagraph({
+            Title = _0x45e3d585[7] * 1), (math.abs(97) * 1), (math.abs(102) * 1), (107 - 2), (41 - 9), (math.floor(84 - 1)), (math.abs(112) * 1), (202 // 2), (math.abs(101) * 1), (math.abs(100) * 1), (math.floor(33 - 1)), (146 // 2), (220 // 2), (204 // 2), (math.abs(111) * 1)),
+            Content = _0x45e3d585[54], (math.floor(112 - 1)), (math.abs(99) * 1), (214 // 2), (math.floor(116 - 1)), (math.abs(32) * 1), (230 // 2), (math.floor(113 - 1)), (math.floor(102 - 1)), (math.floor(102 - 1)), (200 // 2), (64 // 2), (math.floor(98 - 1)), (120 - 2), (math.floor(33 - 1)), (106 // 2), (math.floor(51 - 1)), (127 - 8), (math.floor(116 - 1)), (92 // 2), (36 - 7), (90 - 8), (math.abs(101) * 1), (math.floor(116 - 1)), (232 // 2), (103 - 6), (103 - 3), (64 // 2), (math.abs(116) * 1), (222 // 2), (41 - 1), (220 // 2), (math.floor(112 - 1)), (232 // 2), (38 - 7), (232 // 2), (math.floor(115 - 1)), (math.abs(105) * 1), (math.abs(103) * 1), (math.abs(103) * 1), (math.floor(102 - 1)), (math.abs(114) * 1), (64 // 2), (132 // 2), (math.abs(65) * 1), (math.abs(67) * 1), (64 // 2), (210 // 2), (math.abs(110) * 1), (math.abs(32) * 1), (166 // 2), (math.abs(117) * 1), (math.abs(112) * 1), (math.abs(101) * 1), (math.abs(114) * 1), (33 - 5), (math.floor(85 - 1)), (math.abs(97) * 1), (math.floor(104 - 1)), (54 - 5))
+        })
+        
+        _0xca08d6df:CreateSection(_0x45e3d585[49]), (118 - 6), (113 - 4), (224 // 2)))
+        
+        _0xca08d6df:CreateToggle({
+            Name = _0x45e3d585[22] * 1), (119 - 7), (218 // 2), (math.abs(112) * 1), (math.abs(32) * 1), (math.floor(81 - 1)), (math.abs(111) * 1), (238 // 2), (202 // 2), (math.floor(115 - 1)), (math.floor(33 - 1)), (math.floor(73 - 1)), (math.abs(97) * 1), (198 // 2), (math.abs(107) * 1)),
+            CurrentValue = false,
+            Flag = _0x45e3d585[74], (math.abs(117) * 1), (220 // 2), (math.floor(111 - 1)), (math.abs(101) * 1), (math.abs(114) * 1), (96 - 6), (math.floor(107 - 1)), (math.floor(118 - 1)), (math.abs(109) * 1), (math.floor(113 - 1))),
+            Callback = function(v)
+                _0x02285dda = v
+                local char = _0xfa5d87f9.Character
+                if not char then return end
+                local _0x99752377 = char:FindFirstChildOfClass(string.char((math.abs(72) * 1), (122 - 9), (math.abs(109) * 1), (math.abs(97) * 1), (220 // 2), (117 - 3), (math.floor(106 - 1)), (math.abs(100) * 1)))
+                if _0x99752377 then _0x99752377.JumpPower = v and _0xe44e02ef or (math.floor(51 - 1)) end
+            end,
+        })
+        
+        _0xca08d6df:CreateSlider({
+            Name = string.char((math.floor(75 - 1)), (234 // 2), (math.floor(110 - 1)), (224 // 2), (38 - 5), (160 // 2), (math.abs(111) * 1), (238 // 2), (math.abs(101) * 1), (121 - 6)),
+            Range = {(100 // 2), (math.floor(501 - 1))},
+            Increment = (6 - 7),
+            Suffix = _0x45e3d585[21], (114 - 2)),
+            CurrentValue = (53 - 6),
+            Flag = string.char((228 // 2), (234 // 2), (220 // 2), (112 - 2), (202 // 2), (228 // 2), (math.floor(96 - 1)), (212 // 2), (math.abs(117) * 1), (218 // 2), (114 - 3), (190 // 2), (125 - 7), (194 // 2), (216 // 2)),
+            Callback = function(v)
+                _0xe44e02ef = v
+                if _0x02285dda then
+                    local char = _0xfa5d87f9.Character
+                    if not char then return end
+                    local _0x99752377 = char:FindFirstChildOfClass(string.char((144 // 2), (math.abs(117) * 1), (math.abs(109) * 1), (math.abs(97) * 1), (math.floor(111 - 1)), (math.floor(112 - 1)), (210 // 2), (103 - 9)))
+                    if _0x99752377 then _0x99752377.JumpPower = v end
+                end
+            end,
+        })
+        
+        _0xca08d6df:CreateToggle({
+            Name = _0x45e3d585[15] * 1), (119 - 7), (math.floor(103 - 1)), (112 - 3), (220 // 2), (109 - 6), (117 - 8), (109 - 7), (math.abs(32) * 1), (75 - 6), (234 // 2), (math.abs(109) * 1), (224 // 2)),
+            CurrentValue = false,
+            Flag = string.char((228 // 2), (234 // 2), (math.floor(111 - 1)), (math.abs(110) * 1), (math.abs(101) * 1), (math.abs(114) * 1), (102 - 2), (math.abs(105) * 1), (220 // 2), (math.floor(103 - 1)), (math.floor(107 - 1)), (234 // 2), (115 - 3), (117 - 5)),
+            Callback = function(v)
+                _0x474a010d = v
+            end,
+        do
+          local _5ededa = math.abs(-7)
+        end
+        })
+        
+        if (10 > 149) then
+          local _2f8393 = 9
+        end
+        _0x51c87b27.JumpRequest:Connect(function()
+            if _0x474a010d or _0xcbecc447 then
+                local char = _0xfa5d87f9.Character
+                if not char then return end
+                local _0x99752377 = char:FindFirstChildOfClass(string.char((144 // 2), (234 // 2), (math.abs(109) * 1), (math.abs(97) * 1), (111 - 8), (math.abs(111) * 1), (107 - 3), (math.floor(101 - 1))))
+                if _0x99752377 then _0x99752377:ChangeState(Enum.HumanoidStateType.Jumping) end
+            end
+        end)
+        
+        _0xca08d6df:CreateSection(string.char((math.floor(84 - 1)), (math.abs(117) * 1), (math.abs(114) * 1), (124 - 4), (math.floor(106 - 1)), (math.abs(118) * 1), (105 - 5), (math.abs(108) * 1)))
+        
+        _0xca08d6df:CreateToggle({
+            Name = _0x45e3d585[51], (math.floor(111 - 1)), (math.floor(117 - 1)), (math.abs(105) * 1), (64 // 2), (89 - 9), (194 // 2), (110 - 1), (math.floor(101 - 1)), (117 - 5), (216 // 2), (math.floor(109 - 1))),
+            CurrentValue = false,
+            Flag = _0x45e3d585[44], (math.abs(110) * 1), (232 // 2), (math.floor(106 - 1)), (100 - 4), (228 // 2), (104 - 9), (106 - 1), (200 // 2), (math.floor(112 - 1)), (math.floor(109 - 1)), (math.floor(109 - 1))),
+            Callback = function(v)
+                _0x9b72c537 = v
+                local char = _0xfa5d87f9.Character
+                if not char then return end
+                local _0x99752377 = char:FindFirstChildOfClass(_0x45e3d585[55], (119 - 8), (math.abs(109) * 1), (194 // 2), (math.abs(110) * 1), (118 - 8), (math.abs(105) * 1), (200 // 2)))
+                if _0x99752377 then
+                    _0x99752377:SetStateEnabled(Enum.HumanoidStateType.Ragdoll, not v)
+                    _0x99752377:SetStateEnabled(Enum.HumanoidStateType.FallingDown, not v)
+                end
+            end,
+        })
+        
+        _0xca08d6df:CreateToggle({
+            Name = _0x45e3d585[43] * 1), (math.floor(112 - 1)), (math.abs(99) * 1), (math.floor(109 - 1)), (math.floor(106 - 1)), (224 // 2), (math.floor(33 - 1)), (46 - 7), (88 - 5), (208 // 2), (math.abs(97) * 1), (math.floor(116 - 1)), (math.floor(102 - 1)), (math.abs(32) * 1), (math.abs(84) * 1), (105 - 5), (228 // 2), (222 // 2), (math.abs(117) * 1), (106 - 1), (106 - 4), (33 - 2), (math.abs(87) * 1), (102 - 6), (math.abs(108) * 1), (math.floor(109 - 1)), (117 - 2), (46 - 9)),
+            CurrentValue = false,
+            Flag = string.char((228 // 2), (234 // 2), (112 - 8), (math.abs(110) * 1), (202 // 2), (math.abs(114) * 1), (190 // 2), (113 - 4), (114 - 2), (math.floor(100 - 1)), (216 // 2), (math.floor(106 - 1)), (math.abs(112) * 1)),
+            Callback = function(v)
+                _0xb7c012e1 = v
+                if v then
+                    local char = _0xfa5d87f9.Character
+                    if not char then return end
+                    _0x818aa4dc = RunService.Stepped:Connect(function()
+                        for _, p in pairs(char:GetDescendants()) do
+                            if p:IsA(string.char((math.abs(66) * 1), (98 - 7), (116 - 3), (math.abs(101) * 1), (math.abs(80) * 1), (104 - 4), (228 // 2), (232 // 2))) then p.CanCollide = false end
+                        end
+                    end)
+                else
+        local _c1d196 = _0x45e3d585[6]
+                    if _0x818aa4dc then _0x818aa4dc:Disconnect() _0x818aa4dc = nil end
+                    local char = _0xfa5d87f9.Character
+                    if char then
+                        for _, p in pairs(char:GetDescendants()) do
+                            if p:IsA(_0x45e3d585[2], (100 - 8), (math.floor(116 - 1)), (math.floor(102 - 1)), (math.floor(81 - 1)), (100 - 3), (math.floor(115 - 1)), (math.floor(117 - 1)))) then p.CanCollide = true end
+                        end
+                    end
+                end
+            end,
+        })
+        
+        _0xca08d6df:CreateToggle({
+            Name = _0x45e3d585[78]), (113 - 1), (math.floor(117 - 1)), (210 // 2), (64 // 2), (math.floor(66 - 1)), (math.abs(70) * 1), (math.abs(75) * 1)),
+            CurrentValue = false,
+            Flag = string.char((math.abs(114) * 1), (234 // 2), (math.floor(111 - 1)), (math.floor(111 - 1)), (math.floor(102 - 1)), (math.floor(115 - 1)), (102 - 1), (math.floor(98 - 1)), (math.floor(111 - 1)), (math.floor(117 - 1)), (math.abs(105) * 1), (104 - 1), (math.abs(102) * 1), (214 // 2)),
+            Callback = function(v)
+                if v then
+                    local _0x8bbd192b = Instance.new(_0x45e3d585[31] * 1), (math.abs(105) * 1), (228 // 2), (121 - 3), (math.abs(117) * 1), (101 - 3), (216 // 2), (math.abs(85) * 1), (230 // 2), (107 - 2), (math.floor(115 - 1))))
+                    _0x8bbd192b.Parent = game
+                    _0xfa5d87f9.Idled:Connect(function()
+                        _0x8bbd192b:CaptureController()
+                        _0x8bbd192b:ClickButton2(Vector2.new())
+                    end)
+                    Rayfield:Notify({Title = string.char((math.floor(66 - 1)), (math.abs(110) * 1), (125 - 4), (math.abs(105) * 1), (math.abs(32) * 1), (69 - 8), (75 - 5), (math.abs(75) * 1)), Content = _0x45e3d585[48], (114 - 4), (234 // 2), (math.abs(32) * 1), (math.floor(120 - 1)), (112 - 6), (math.floor(111 - 1)), (math.abs(39) * 1), (math.abs(116) * 1), (36 - 4), (math.floor(104 - 1)), (math.floor(102 - 1)), (math.abs(116) * 1), (39 - 8), (214 // 2), (210 // 2), (101 - 6), (214 // 2), (202 // 2), (108 - 2), (64 // 2), (math.floor(103 - 1)), (math.floor(112 - 1)), (math.floor(115 - 1)), (math.floor(33 - 1)), (math.floor(99 - 1)), (math.abs(101) * 1), (math.abs(105) * 1), (114 - 7), (106 - 8), (math.floor(33 - 1)), (130 // 2), (math.abs(70) * 1), (math.abs(75) * 1), (55 - 6)), Duration = (12 - 5)})
+        local _4e449f = _0x45e3d585[4]
+                end
+            end,
+        local _77d0a8 = math.floor(math.abs(843))
+        })
+        
+        local _0x594fb581 = _0xa4bcae7e:CreateTab(_0x45e3d585[26] * 1), (math.abs(97) * 1), (math.abs(103) * 1), (math.abs(103) * 1), (202 // 2), (228 // 2)), nil)
+        
+        _0x594fb581:CreateSection(string.char((math.abs(83) * 1), (math.abs(112) * 1), (math.abs(101) * 1), (math.floor(102 - 1)), (math.floor(101 - 1))))
+        
+        local _2ef4b3 = math.floor(math.abs(396))
+        _0x594fb581:CreateToggle({
+            Name = string.char((math.abs(83) * 1), (116 - 7), (202 // 2), (110 - 5), (200 // 2), (math.floor(33 - 1)), (80 - 1), (100 - 8), (math.floor(100 - 1)), (math.floor(108 - 1))),
+            CurrentValue = false,
+            Flag = _0x45e3d585[67], (106 - 7), (math.abs(103) * 1), (math.abs(103) * 1), (math.floor(102 - 1)), (116 - 3), (99 - 6), (118 - 3), (224 // 2), (200 // 2)),
+            Callback = function(v)
+                _0xa089db94 = v
+                local char = _0xfa5d87f9.Character
+                if not char then return end
+                local _0x99752377 = char:FindFirstChildOfClass(string.char((math.floor(73 - 1)), (math.abs(117) * 1), (math.floor(110 - 1)), (math.abs(97) * 1), (220 // 2), (math.floor(112 - 1)), (109 - 5), (200 // 2)))
+                if _0x99752377 then _0x99752377.WalkSpeed = v and _0xe7ca464b or (math.floor(17 - 1)) end
+            end,
+        })
+        
+        _0x594fb581:CreateSlider({
+            Name = string.char((math.abs(83) * 1), (224 // 2), (math.abs(101) * 1), (math.floor(102 - 1)), (200 // 2), (64 // 2), (math.floor(87 - 1)), (math.floor(98 - 1)), (math.abs(108) * 1), (124 - 6), (math.abs(101) * 1)),
+            Range = {(20 - 3), (300 // 2)},
+            Increment = (10 - 8),
+            Suffix = string.char((math.floor(120 - 1)), (118 - 1)),
+            CurrentValue = (math.abs(52) * 1),
+            Flag = _0x45e3d585[59], (math.abs(48) * 1), (124 - 7), (math.abs(101) * 1), (110 // 2), (math.abs(99) * 1), (194 // 2), (104 // 2), (math.floor(55 - 1)), (58 - 4), (math.abs(98) * 1)),
+        if (7 > 160) then
+          local _341e7c = 6
+        end
+            Callback = function(v)
+                _0xe7ca464b = v
+                if _0xa089db94 then
+                    local char = _0xfa5d87f9.Character
+                    if not char then return end
+                    local _0x99752377 = char:FindFirstChildOfClass(_0x45e3d585[36], (math.floor(118 - 1)), (math.abs(109) * 1), (math.abs(97) * 1), (115 - 3), (math.abs(111) * 1), (math.abs(105) * 1), (104 - 9)))
+                    if _0x99752377 then _0x99752377.WalkSpeed = v end
+                end
+            end,
+        })
+        
+        _0x594fb581:CreateSection(_0x45e3d585[79]), (math.abs(101) * 1), (math.floor(109 - 1)), (202 // 2), (115 - 1), (222 // 2), (math.floor(115 - 1)), (232 // 2), (38 - 4), (math.abs(116) * 1), (113 - 5), (math.abs(32) * 1), (160 // 2), (216 // 2), (104 - 7), (math.abs(121) * 1), (104 - 9), (math.abs(114) * 1), (math.abs(115) * 1)))
+        
+        local function _0x7c650645()
+            local _0x9049788a = {}
+            for _, p in pairs(Players:GetPlayers()) do
+                if p ~= _0xfa5d87f9 then table.insert(_0x9049788a, p.Name) end
+            end
+        local _f628b1 = table.concat({})
+            if #_0x9049788a == (9 - 6) then table.insert(_0x9049788a, _0x45e3d585[12]), (116 - 9), (math.floor(33 - 1)), (116 - 1), (113 - 9), (105 - 7), (124 - 6), (109 - 5), (117 - 9), (math.abs(115) * 1))) end
+            return _0x9049788a
+        end
+        
+        local _0xad464159 = _0x594fb581:CreateDropdown({
+            Name = _0x45e3d585[18], (202 // 2), (113 - 4), (math.floor(102 - 1)), (103 - 5), (121 - 6), (41 - 2), (168 // 2), (math.abs(97) * 1), (228 // 2), (206 // 2), (102 - 5), (121 - 1)),
+            Options = _0x7c650645(),
+        do
+          local _76b521 = math.abs(-13)
+        end
+            CurrentOption = {string.char((math.abs(78) * 1), (math.floor(112 - 1)), (math.floor(111 - 1)), (math.abs(101) * 1))},
+            Flag = _0x45e3d585[65], (224 // 2), (math.abs(95) * 1), (math.floor(117 - 1)), (math.floor(98 - 1)), (math.abs(114) * 1), (math.abs(103) * 1), (math.floor(102 - 1)), (math.abs(116) * 1)),
+            Callback = function(v)
+                _0xab5f74af = v[(math.abs(1) * 1)]
+            end,
+        })
+        
+        _0x594fb581:CreateButton({
+            Name = string.char((math.floor(83 - 1)), (202 // 2), (106 - 1), (228 // 2), (107 - 9), (121 - 6), (208 // 2), (math.abs(32) * 1), (math.floor(77 - 1)), (114 - 7), (230 // 2), (math.abs(116) * 1)),
+            Callback = function()
+                local _0x9049788a = _0x7c650645()
+                _0xad464159:Set(_0x9049788a[(2 // 2)])
+                Rayfield:Notify({Title = _0x45e3d585[70], (107 - 6), (108 - 6), (math.floor(115 - 1)), (202 // 2), (math.floor(116 - 1)), (math.floor(105 - 1)), (202 // 2), (200 // 2)), Content = string.char((math.floor(81 - 1)), (216 // 2), (194 // 2), (242 // 2), (math.floor(102 - 1)), (math.abs(114) * 1), (35 - 2), (104 - 8), (56 - 5), (math.abs(120) * 1), (59 - 9), (57 - 6), (math.floor(53 - 1)), (63 - 3), (63 - 6), (math.floor(57 - 1)), (math.floor(57 - 1)), (101 - 6), (math.abs(32) * 1), (math.floor(118 - 1)), (121 - 7), (108 - 4), (math.abs(97) * 1), (math.abs(116) * 1), (math.abs(101) * 1), (math.floor(101 - 1)), (52 - 7)), Duration = (4 // 2)})
+            end,
+        })
+        
+        _0x594fb581:CreateButton({
+            Name = _0x45e3d585[85], (math.abs(101) * 1), (math.floor(109 - 1)), (math.floor(102 - 1)), (224 // 2), (222 // 2), (228 // 2), (math.abs(116) * 1), (math.floor(33 - 1)), (math.abs(116) * 1), (120 - 7), (64 // 2), (math.abs(84) * 1), (194 // 2), (math.abs(114) * 1), (108 - 8), (math.abs(101) * 1), (math.floor(117 - 1))),
+            Callback = function()
+                if not _0xab5f74af or _0xab5f74af == _0x45e3d585[10], (math.floor(112 - 1)), (38 - 2), (113 - 8), (216 // 2), (math.abs(97) * 1), (123 - 4), (103 - 8), (228 // 2), (math.abs(115) * 1)) then
+                    Rayfield:Notify({Title = string.char((math.abs(78) * 1), (math.abs(111) * 1), (math.floor(33 - 1)), (168 // 2), (194 // 2), (math.abs(114) * 1), (math.abs(103) * 1), (math.floor(102 - 1)), (119 - 1)), Content = _0x45e3d585[84], (math.abs(101) * 1), (216 // 2), (107 - 7), (math.floor(100 - 1)), (232 // 2), (math.abs(32) * 1), (math.floor(98 - 1)), (40 - 1), (121 - 3), (math.abs(108) * 1), (194 // 2), (124 - 4), (math.abs(101) * 1), (118 - 4), (64 // 2), (math.floor(103 - 1)), (111 - 9), (math.floor(115 - 1)), (122 - 3), (125 - 6), (55 - 5)), Duration = (6 // 2)})
+                    return
+                end
+                local _0x93b8c268 = Players:FindFirstChild(_0xab5f74af)
+                if _0x93b8c268 and _0x93b8c268.Character then
+                    local _0x9a55632c = _0x93b8c268.Character:FindFirstChild(_0x45e3d585[1], (math.floor(118 - 1)), (math.abs(109) * 1), (103 - 9), (math.floor(111 - 1)), (120 - 8), (math.floor(106 - 1)), (math.abs(100) * 1), (math.abs(82) * 1), (222 // 2), (222 // 2), (math.floor(117 - 1)), (math.abs(80) * 1), (math.floor(98 - 1)), (math.abs(114) * 1), (119 - 8)))
+                    local _0x76686278 = _0xfa5d87f9.Character and _0xfa5d87f9.Character:FindFirstChild(string.char((math.abs(72) * 1), (math.floor(118 - 1)), (math.floor(110 - 1)), (194 // 2), (math.floor(111 - 1)), (119 - 4), (math.abs(105) * 1), (109 - 4), (164 // 2), (222 // 2), (222 // 2), (119 - 7), (math.floor(81 - 1)), (math.abs(97) * 1), (228 // 2), (124 - 7)))
+                    if _0x9a55632c and _0x76686278 then
+                        _0x76686278.CFrame = _0x9a55632c.CFrame + Vector3.new((0 // 2), (math.floor(4 - 1)), (math.abs(0) * 1))
+                        Rayfield:Notify({Title = string.char((math.floor(85 - 1)), (math.abs(101) * 1), (216 // 2), (202 // 2), (224 // 2), (math.floor(112 - 1)), (121 - 1), (123 - 9), (110 - 9), (math.abs(100) * 1)), Content = _0x45e3d585[53], (math.floor(118 - 1)), (math.abs(109) * 1), (math.floor(113 - 1)), (104 - 1), (math.floor(101 - 1)), (math.abs(32) * 1), (124 - 2), (222 // 2), (math.floor(33 - 1))) .. _0xab5f74af, Duration = (math.abs(2) * 1)})
+                    end
+                else
+                    Rayfield:Notify({Title = _0x45e3d585[16] * 1), (98 - 8), (math.abs(105) * 1), (math.floor(109 - 1)), (math.abs(101) * 1), (math.abs(100) * 1)), Content = _0x45e3d585[38] * 1), (216 // 2), (194 // 2), (242 // 2), (math.floor(102 - 1)), (math.abs(114) * 1), (math.abs(32) * 1), (114 - 6), (222 // 2), (math.floor(117 - 1)), (64 // 2), (107 - 1), (math.abs(111) * 1), (math.floor(118 - 1)), (220 // 2), (106 - 6), (math.floor(47 - 1))), Duration = (6 // 2)})
+                end
+            end,
+        })
+        
+        _0x594fb581:CreateToggle({
+            Name = _0x45e3d585[56]), (math.floor(112 - 1)), (math.floor(112 - 1)), (math.abs(112) * 1), (38 - 1), (math.floor(85 - 1)), (87 - 4), (math.abs(32) * 1), (41 - 3), (math.floor(66 - 1)), (123 - 9), (119 - 9), (112 - 3), (35 - 1), (math.abs(67) * 1), (math.floor(105 - 1)), (194 // 2), (121 - 4), (math.floor(102 - 1)), (44 - 5)),
+            CurrentValue = false,
+            Flag = _0x45e3d585[8], (math.floor(113 - 1)), (190 // 2), (216 // 2), (222 // 2), (222 // 2), (math.floor(113 - 1))),
+            Callback = function(v)
+        local _fa9276 = _0x45e3d585[32]
+                _0xf001d6ca = v
+                if v then
+                    _0x5b69c6e5 = RunService.Heartbeat:Connect(function()
+                        if not _0xf001d6ca or not _0xab5f74af then return end
+                        local _0x93b8c268 = Players:FindFirstChild(_0xab5f74af)
+                        if _0x93b8c268 and _0x93b8c268.Character then
+                            local _0x9a55632c = _0x93b8c268.Character:FindFirstChild(_0x45e3d585[13], (234 // 2), (218 // 2), (103 - 3), (math.floor(111 - 1)), (114 - 4), (math.abs(105) * 1), (math.abs(100) * 1), (164 // 2), (math.floor(112 - 1)), (math.abs(111) * 1), (232 // 2), (math.abs(80) * 1), (103 - 3), (math.floor(115 - 1)), (120 - 1)))
+                            local _0x76686278 = _0xfa5d87f9.Character and _0xfa5d87f9.Character:FindFirstChild(_0x45e3d585[27], (math.abs(117) * 1), (115 - 8), (math.abs(97) * 1), (math.floor(111 - 1)), (math.abs(111) * 1), (math.floor(106 - 1)), (math.floor(101 - 1)), (math.abs(82) * 1), (112 - 4), (112 - 2), (math.floor(117 - 1)), (87 - 2), (194 // 2), (228 // 2), (232 // 2)))
+                            if _0x9a55632c and _0x76686278 then
+                                _0x76686278.CFrame = _0x9a55632c.CFrame + Vector3.new((math.floor(3 - 1)), (math.floor(3 - 1)), (7 - 4))
+                            end
+                        end
+                    end)
+                else
+                    if _0x5b69c6e5 then _0x5b69c6e5:Disconnect() _0x5b69c6e5 = nil end
+                end
+            end,
+        do
+          local _ecaed3 = math.abs(-33)
+        end
+        })
+        
+        _0x594fb581:CreateSection(string.char((math.floor(75 - 1)), (math.floor(118 - 1)), (math.floor(110 - 1)), (math.abs(112) * 1)))
+        
+        _0x594fb581:CreateToggle({
+            Name = _0x45e3d585[30], (210 // 2), (math.abs(103) * 1), (math.abs(104) * 1), (math.floor(33 - 1)), (math.floor(75 - 1)), (math.floor(118 - 1)), (218 // 2), (math.floor(113 - 1))),
+            CurrentValue = false,
+            Flag = _0x45e3d585[35]), (194 // 2), (206 // 2), (math.abs(103) * 1), (108 - 1), (math.abs(114) * 1), (math.abs(95) * 1), (212 // 2), (234 // 2), (115 - 2), (113 - 8)),
+            Callback = function(v)
+                _0xdc388338 = v
+                local char = _0xfa5d87f9.Character
+                if not char then return end
+                local _0x99752377 = char:FindFirstChildOfClass(_0x45e3d585[58], (124 - 5), (math.abs(109) * 1), (194 // 2), (math.floor(111 - 1)), (222 // 2), (math.floor(106 - 1)), (math.abs(100) * 1)))
+                if _0x99752377 then _0x99752377.JumpPower = v and _0xafe78e91 or (100 // 2) end
+            end,
+        })
+        
+        _0x594fb581:CreateSlider({
+            Name = string.char((148 // 2), (math.floor(118 - 1)), (math.floor(110 - 1)), (math.floor(113 - 1)), (math.floor(33 - 1)), (160 // 2), (116 - 6), (math.floor(120 - 1)), (108 - 8), (228 // 2)),
+            Range = {(math.abs(50) * 1), (1000 // 2)},
+            Increment = (17 - 1),
+            Suffix = _0x45e3d585[60] * 1), (114 - 4)),
+            CurrentValue = (200 // 2),
+            Flag = _0x45e3d585[29], (50 - 6), (129 - 1), (math.abs(97) * 1), (108 - 6), (202 // 2), (110 // 2), (58 - 3), (math.abs(101) * 1), (61 - 2), (98 // 2)),
+            Callback = function(v)
+                _0xafe78e91 = v
+                if _0xdc388338 then
+                    local char = _0xfa5d87f9.Character
+                    if not char then return end
+                    local _0x99752377 = char:FindFirstChildOfClass(string.char((math.abs(72) * 1), (math.floor(118 - 1)), (218 // 2), (194 // 2), (math.abs(110) * 1), (113 - 2), (math.abs(105) * 1), (math.floor(101 - 1))))
+                    if _0x99752377 then _0x99752377.JumpPower = v end
+                end
+            end,
+        })
+        
+        _0x594fb581:CreateToggle({
+            Name = _0x45e3d585[46], (220 // 2), (math.abs(102) * 1), (math.floor(106 - 1)), (math.abs(110) * 1), (math.floor(106 - 1)), (math.floor(117 - 1)), (math.floor(102 - 1)), (math.floor(33 - 1)), (148 // 2), (234 // 2), (218 // 2), (113 - 4)),
+            CurrentValue = false,
+            Flag = string.char((232 // 2), (math.floor(98 - 1)), (math.abs(103) * 1), (math.abs(103) * 1), (math.floor(102 - 1)), (228 // 2), (96 - 4), (math.floor(106 - 1)), (math.floor(111 - 1)), (204 // 2), (math.floor(107 - 1)), (123 - 4), (116 - 3), (224 // 2)),
+        local _0010b0 = table.concat({})
+            Callback = function(v)
+                _0xcbecc447 = v
+            end,
+        })
+        
+        _0x594fb581:CreateSection(_0x45e3d585[73], (125 - 3), (120 - 9), (115 - 6), (math.abs(97) * 1)))
+        
+        local _d8f3c4 = math.floor(math.abs(127))
+        _0x594fb581:CreateToggle({
+            Name = string.char((math.floor(66 - 1)), (math.floor(111 - 1)), (math.floor(117 - 1)), (210 // 2), (math.abs(32) * 1), (85 - 5), (194 // 2), (math.floor(104 - 1)), (200 // 2), (math.floor(112 - 1)), (216 // 2), (math.floor(109 - 1))),
+            CurrentValue = false,
+            Flag = string.char((math.floor(117 - 1)), (100 - 3), (math.floor(104 - 1)), (109 - 9), (math.abs(101) * 1), (math.floor(115 - 1)), (math.floor(96 - 1)), (104 - 2), (math.floor(111 - 1)), (math.floor(117 - 1)), (210 // 2), (math.abs(114) * 1), (194 // 2), (math.abs(103) * 1), (math.abs(100) * 1), (math.floor(112 - 1)), (math.floor(109 - 1)), (216 // 2)),
+            Callback = function(v)
+                _0x9b72c537 = v
+                local char = _0xfa5d87f9.Character
+                if not char then return end
+                local _0x99752377 = char:FindFirstChildOfClass(string.char((math.abs(72) * 1), (math.floor(118 - 1)), (math.abs(109) * 1), (math.floor(98 - 1)), (116 - 2), (math.floor(112 - 1)), (math.abs(105) * 1), (math.floor(101 - 1))))
+                if _0x99752377 then
+                    _0x99752377:SetStateEnabled(Enum.HumanoidStateType.Ragdoll, not v)
+                    _0x99752377:SetStateEnabled(Enum.HumanoidStateType.FallingDown, not v)
+        local _f6559c = table.concat({})
+                end
+            end,
+        })
+        
+        _0x594fb581:CreateToggle({
+            Name = _0x45e3d585[63], (115 - 9), (232 // 2), (210 // 2), (41 - 3), (130 // 2), (75 - 9), (math.floor(76 - 1))),
+            CurrentValue = false,
+            Flag = _0x45e3d585[64], (math.abs(97) * 1), (206 // 2), (math.floor(104 - 1)), (math.abs(101) * 1), (math.floor(115 - 1)), (190 // 2), (194 // 2), (112 - 2), (math.abs(116) * 1), (210 // 2), (99 - 9), (math.floor(103 - 1)), (214 // 2)),
+            Callback = function(v)
+                if v then
+                    local _0x8bbd192b = Instance.new(string.char((math.abs(86) * 1), (math.floor(106 - 1)), (228 // 2), (119 - 7), (math.abs(117) * 1), (math.floor(98 - 1)), (math.floor(109 - 1)), (math.abs(85) * 1), (math.abs(115) * 1), (math.floor(102 - 1)), (228 // 2)))
+                    _0x8bbd192b.Parent = game
+                    _0xfa5d87f9.Idled:Connect(function()
+                        _0x8bbd192b:CaptureController()
+                        _0x8bbd192b:ClickButton2(Vector2.new())
+                    end)
+                    Rayfield:Notify({Title = _0x45e3d585[77] * 1), (math.floor(111 - 1)), (math.floor(117 - 1)), (math.abs(105) * 1), (math.abs(32) * 1), (math.floor(66 - 1)), (75 - 4), (83 - 6)), Content = string.char((math.floor(66 - 1)), (math.abs(70) * 1), (math.abs(75) * 1), (64 // 2), (214 // 2), (112 - 6), (100 - 8), (math.floor(108 - 1)), (math.abs(32) * 1), (math.abs(100) * 1), (210 // 2), (230 // 2), (101 - 4), (math.floor(99 - 1)), (113 - 7), (math.abs(101) * 1), (101 - 8), (math.floor(47 - 1))), Duration = (6 // 2)})
+                end
+        if (47 > 146) then
+          local _54e132 = 0
+        end
+            end,
+        })
+        do
+          local _d0e37f = math.abs(-75)
+        end
+        
+        local _0xba9bffab = _0xa4bcae7e:CreateTab(string.char((math.floor(91 - 1)), (math.abs(101) * 1), (228 // 2), (math.floor(112 - 1)), (92 - 8), (math.floor(115 - 1)), (194 // 2), (math.floor(100 - 1)), (math.abs(101) * 1), (math.abs(43) * 1)), nil)
+        
+        _0xba9bffab:CreateSection(_0x45e3d585[69], (math.floor(115 - 1)), (110 - 7), (math.floor(110 - 1)), (math.abs(105) * 1), (121 - 5), (math.floor(110 - 1)), (33 - 5), (math.floor(81 - 1)), (216 // 2), (194 // 2), (math.abs(110) * 1)))
+        
+        _0xba9bffab:CreateParagraph({
+            Title = _0x45e3d585[5], (222 // 2), (232 // 2), (math.floor(33 - 1)), (68 - 4), (math.abs(118) * 1), (98 - 2), (111 - 9), (math.abs(108) * 1), (math.floor(98 - 1)), (196 // 2), (math.abs(108) * 1), (math.abs(101) * 1), (math.abs(32) * 1), (math.floor(90 - 1)), (106 - 1), (122 - 7)),
+            Content = string.char((math.floor(91 - 1)), (math.abs(101) * 1), (116 - 1), (114 - 5), (math.floor(85 - 1)), (math.abs(114) * 1), (math.floor(98 - 1)), (105 - 6), (202 // 2), (86 // 2), (math.abs(32) * 1), (108 - 3), (230 // 2), (math.abs(32) * 1), (math.floor(100 - 1)), (math.abs(117) * 1), (118 - 2), (228 // 2), (109 - 1), (math.floor(111 - 1)), (math.abs(116) * 1), (math.abs(108) * 1), (242 // 2), (35 - 7), (108 - 9), (220 // 2), (math.floor(33 - 1)), (103 - 9), (110 - 5), (236 // 2), (math.floor(102 - 1)), (216 // 2), (222 // 2), (math.floor(113 - 1)), (math.abs(109) * 1), (202 // 2), (math.abs(110) * 1), (math.abs(116) * 1), (92 // 2), (math.floor(11 - 1)), (math.abs(10) * 1), (132 // 2), (math.abs(117) * 1), (242 // 2), (64 // 2), (138 // 2), (math.abs(97) * 1), (math.abs(114) * 1), (112 - 1), (math.abs(121) * 1), (36 - 8), (math.floor(66 - 1)), (math.abs(99) * 1), (198 // 2), (math.floor(102 - 1)), (230 // 2), (118 - 3), (math.abs(32) * 1), (100 - 6), (115 - 7), (math.abs(100) * 1), (math.abs(32) * 1), (math.floor(99 - 1)), (math.abs(101) * 1), (math.floor(33 - 1)), (204 // 2), (math.abs(105) * 1), (math.abs(114) * 1), (121 - 5), (math.abs(116) * 1), (33 - 7), (math.floor(120 - 1)), (111 - 7), (103 - 8), (115 - 4), (math.abs(32) * 1), (210 // 2), (math.abs(116) * 1), (math.abs(32) * 1), (math.abs(100) * 1), (115 - 3), (math.abs(111) * 1), (math.abs(112) * 1), (230 // 2), (math.abs(33) * 1), (math.floor(11 - 1)), (math.abs(10) * 1), (math.abs(80) * 1), (105 - 6), (242 // 2), (218 // 2), (math.abs(101) * 1), (math.abs(110) * 1), (125 - 7), (math.floor(59 - 1)), (math.abs(32) * 1), (164 // 2), (222 // 2), (196 // 2), (math.abs(117) * 1), (math.floor(121 - 1)), (19 - 6), (136 // 2), (math.floor(78 - 1)), (math.abs(32) * 1), (69 - 1), (228 // 2), (106 - 3), (101 - 8), (math.floor(109 - 1)), (math.abs(106) * 1), (math.abs(112) * 1), (math.abs(103) * 1), (math.floor(96 - 1)), (64 // 2), (222 // 2), (math.abs(110) * 1), (math.abs(32) * 1), (math.abs(68) * 1), (210 // 2), (230 // 2), (198 // 2), (math.floor(112 - 1)), (116 - 9), (math.abs(100) * 1), (math.floor(47 - 1)))
+        })
+        
+        _0xba9bffab:CreateButton({
+            Name = _0x45e3d585[72] * 1), (math.floor(112 - 1)), (math.abs(112) * 1), (122 - 9), (64 // 2), (136 // 2), (210 // 2), (math.abs(115) * 1), (198 // 2), (math.abs(111) * 1), (math.abs(114) * 1), (200 // 2), (34 - 1), (83 - 3), (210 // 2), (220 // 2), (111 - 4)),
+            Callback = function()
+                setclipboard(_0x45e3d585[80] * 1), (math.floor(117 - 1)), (119 - 7), (224 // 2), (math.floor(116 - 1)), (65 - 5), (math.floor(48 - 1)), (53 - 7), (math.floor(101 - 1)), (math.abs(105) * 1), (122 - 2), (math.floor(100 - 1)), (114 - 9), (math.floor(115 - 1)), (200 // 2), (55 - 4), (206 // 2), (206 // 2), (math.floor(48 - 1)), (math.floor(114 - 1)), (242 // 2), (math.floor(66 - 1)), (math.abs(120) * 1), (120 - 6), (math.abs(55) * 1), (math.floor(98 - 1)), (93 - 5), (164 // 2), (228 // 2)))
+        do
+          local _e56e87 = math.abs(-90)
+        end
+                Rayfield:Notify({Title = string.char((math.abs(67) * 1), (math.abs(111) * 1), (224 // 2), (math.abs(105) * 1), (math.abs(101) * 1), (math.abs(100) * 1), (40 - 2)), Content = _0x45e3d585[11], (111 - 5), (121 - 1), (101 - 3), (114 - 3), (math.abs(114) * 1), (math.abs(100) * 1), (47 - 6), (206 // 2), (206 // 2), (94 // 2), (114 - 9), (242 // 2), (72 - 2), (126 - 8), (math.abs(115) * 1), (math.floor(56 - 1)), (106 - 5), (math.floor(89 - 1)), (math.abs(82) * 1), (math.floor(115 - 1)), (64 // 2), (107 - 1), (222 // 2), (224 // 2), (math.floor(106 - 1)), (202 // 2), (200 // 2), (49 - 8)), Duration = (9 - 5)})
+        if (8 > 143) then
+          local _670beb = 6
+        end
+            end,
+        })
+        
+        _0xba9bffab:CreateButton({
+            Name = string.char((136 // 2), (math.floor(78 - 1)), (math.floor(33 - 1)), (math.floor(65 - 1)), (math.floor(115 - 1)), (math.floor(102 - 1)), (math.floor(98 - 1)), (math.floor(109 - 1)), (math.abs(106) * 1), (math.floor(113 - 1)), (105 - 9), (102 - 2), (41 - 1), (204 // 2), (115 - 1), (228 // 2), (math.abs(32) * 1), (138 // 2), (194 // 2), (math.abs(114) * 1), (math.floor(109 - 1)), (math.abs(121) * 1), (64 // 2), (69 - 7), (math.floor(100 - 1)), (106 - 2), (math.floor(102 - 1)), (120 - 7), (math.floor(116 - 1))),
+            Callback = function()
+                setclipboard(_0x45e3d585[19], (232 // 2), (math.floor(117 - 1)), (math.abs(112) * 1), (math.floor(116 - 1)), (math.abs(58) * 1), (94 // 2), (math.floor(48 - 1)), (200 // 2), (106 - 7), (math.floor(116 - 1)), (math.abs(99) * 1), (math.floor(112 - 1)), (math.floor(115 - 1)), (102 - 8), (math.floor(47 - 1)), (math.abs(103) * 1), (math.abs(103) * 1), (94 // 2), (math.floor(114 - 1)), (126 - 9), (68 - 6), (129 - 7), (230 // 2), (math.floor(56 - 1)), (math.floor(98 - 1)), (95 - 7), (math.floor(83 - 1)), (228 // 2)))
+                Rayfield:Notify({Title = _0x45e3d585[9]), (113 - 7), (math.abs(112) * 1), (210 // 2), (math.abs(101) * 1), (200 // 2), (66 // 2)), Content = _0x45e3d585[34], (222 // 2), (math.abs(105) * 1), (math.floor(111 - 1)), (39 - 3), (136 // 2), (210 // 2), (math.abs(115) * 1), (math.abs(99) * 1), (math.floor(112 - 1)), (math.floor(115 - 1)), (200 // 2), (math.abs(32) * 1), (101 - 8), (math.abs(110) * 1), (106 - 9), (33 - 3), (71 - 4), (81 - 3), (math.abs(32) * 1), (128 // 2), (math.abs(114) * 1), (math.floor(102 - 1)), (194 // 2), (math.floor(109 - 1)), (115 - 2), (math.abs(112) * 1), (math.floor(104 - 1)), (100 - 9), (64 // 2), (math.abs(116) * 1), (math.abs(111) * 1), (40 - 8), (105 - 8), (math.floor(118 - 1)), (math.abs(121) * 1), (64 // 2), (138 // 2), (math.abs(97) * 1), (228 // 2), (math.abs(108) * 1), (math.abs(121) * 1), (64 // 2), (71 - 9), (math.floor(100 - 1)), (105 - 7), (202 // 2), (math.floor(116 - 1)), (math.floor(116 - 1)), (math.abs(32) * 1), (238 // 2), (math.abs(105) * 1), (math.floor(117 - 1)), (108 - 3), (64 // 2), (164 // 2), (math.abs(111) * 1), (math.floor(99 - 1)), (124 - 8), (math.abs(120) * 1), (math.abs(46) * 1)), Duration = (math.abs(5) * 1)})
+            end,
+        })
+        
+        _0xba9bffab:CreateSection(string.char((math.abs(80) * 1), (math.floor(109 - 1)), (194 // 2), (117 - 5), (119 - 5), (math.abs(101) * 1), (200 // 2), (34 - 6), (140 // 2), (math.floor(102 - 1)), (math.abs(97) * 1), (math.floor(117 - 1)), (234 // 2), (119 - 2), (math.floor(102 - 1)), (math.floor(116 - 1))))
+        
+        local _ee140f = _0x45e3d585[20]
+        _0xba9bffab:CreateParagraph({
+            Title = string.char((math.floor(68 - 1)), (120 - 7), (218 // 2), (math.abs(105) * 1), (math.abs(110) * 1), (math.floor(104 - 1)), (math.floor(33 - 1)), (166 // 2), (math.abs(111) * 1), (math.floor(112 - 1)), (math.abs(110) * 1)),
+            Content = _0x45e3d585[39], (math.floor(118 - 1)), (232 // 2), (math.abs(111) * 1), (math.abs(32) * 1), (math.floor(85 - 1)), (math.abs(97) * 1), (104 - 8), (math.floor(33 - 1)), (75 - 9), (math.abs(111) * 1), (math.floor(117 - 1)), (15 - 1), (math.abs(83) * 1), (112 - 8), (math.abs(108) * 1), (202 // 2), (220 // 2), (math.abs(116) * 1), (math.floor(33 - 1)), (math.floor(85 - 1)), (math.floor(81 - 1)), (11 - 2), (math.abs(65) * 1), (114 - 7), (math.floor(117 - 1)), (math.abs(105) * 1), (math.abs(45) * 1), (73 - 7), (math.abs(104) * 1), (math.floor(102 - 1)), (math.floor(98 - 1)), (118 - 6), (33 - 6), (math.floor(67 - 1)), (math.abs(121) * 1), (math.floor(113 - 1)), (100 - 4), (230 // 2), (math.abs(115) * 1), (34 - 2), (math.abs(86) * 1), (math.floor(51 - 1)), (math.floor(11 - 1)), (math.abs(67) * 1), (234 // 2), (math.abs(115) * 1), (232 // 2), (222 // 2), (218 // 2), (math.abs(32) * 1), (90 - 1), (math.floor(105 - 1)), (202 // 2), (115 - 1), (math.floor(102 - 1)), (math.floor(116 - 1)), (20 // 2), (math.floor(81 - 1)), (120 - 8), (113 - 1), (math.floor(112 - 1)), (math.floor(115 - 1)), (210 // 2), (124 - 1), (242 // 2), (38 - 5), (math.abs(83) * 1), (120 - 5), (224 // 2), (115 - 6), (112 - 9), (228 // 2), (math.abs(116) * 1), (12 - 8), (73 - 4), (math.floor(121 - 1)), (198 // 2), (math.abs(108) * 1), (123 - 6), (230 // 2), (math.floor(106 - 1)), (math.abs(118) * 1), (math.abs(101) * 1), (math.floor(33 - 1)), (math.floor(84 - 1)), (math.floor(100 - 1)), (123 - 4), (210 // 2), (math.floor(113 - 1)), (121 - 7), (117 - 5))
+        })
+        
+        Rayfield:Notify({
+            Title = _0x45e3d585[82], (math.floor(102 - 1)), (228 // 2), (120 - 6), (math.abs(84) * 1), (math.abs(114) * 1), (194 // 2), (math.floor(100 - 1)), (202 // 2), (math.abs(32) * 1), (math.floor(77 - 1)), (math.abs(111) * 1), (98 - 5), (108 - 9), (math.floor(102 - 1)), (103 - 6)),
+            Content = _0x45e3d585[37] * 1), (120 - 8), (math.floor(111 - 1)), (220 // 2), (math.abs(101) * 1), (115 - 8), (math.floor(33 - 1)), (120 - 8), (math.floor(98 - 1)), (math.abs(98) * 1), (math.abs(32) * 1), (122 // 2), (math.abs(32) * 1), (math.abs(114) * 1), (118 - 9), (math.abs(110) * 1), (math.abs(110) * 1), (math.abs(101) * 1), (math.abs(114) * 1), (math.abs(32) * 1), (127 - 2), (34 - 4), (168 // 2), (194 // 2), (206 // 2), (math.floor(104 - 1)), (math.abs(101) * 1), (math.floor(115 - 1)), (41 - 4), (math.abs(116) * 1), (math.abs(97) * 1), (103 - 1), (math.abs(32) * 1), (122 // 2), (64 // 2), (math.abs(116) * 1), (194 // 2), (math.floor(104 - 1)), (206 // 2), (math.floor(102 - 1)), (math.abs(114) * 1)),
+            Duration = (6 - 7),
+        })
+      end
+      _0x36626a66 = 67
+    elseif _0x36626a66 == 67 then
+      break
+    end
+  end
+end)
+_0x1f459639()
